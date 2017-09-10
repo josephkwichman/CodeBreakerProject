@@ -32,6 +32,7 @@ function guess() {
 }
 
 //implement new functions here
+
 function setHiddenFields() {
     let answerNum = Math.floor(Math.random() * 9999) + 1;
 
